@@ -30,9 +30,6 @@ return {
                 diagnostic_only_current = true,
             },
         })
-        vim.diagnostic.config({
-            virtual_text = false
-        })
     end,
 }
 
