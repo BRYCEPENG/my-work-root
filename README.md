@@ -11,7 +11,13 @@
 - Run commands:
     - cp ./nvim ~/.config/nvim
     - nvim
-- After Lazy's plugin upgrading has done, then run command:
+- Deal with Compatibility issues by restoring the specified in lazy-lock.json:
     - cp ./lazy-lock.json ~/.config/nvim/lazy-lock.json
-- Finally run  command to restore the specified version by lazy-lock.json:
     - :Lazy restore
+
+## Setup clang(c/c++) and lua language server:
+- Run nvim command:
+    - :Mason
+- Move icon to 'clang' and 'lua-language-server'.
+- Type 'i' for installing such plugs.
+- Type 'u' for updating such plugs after fully installed.
