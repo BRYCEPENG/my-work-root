@@ -1,4 +1,4 @@
-# The simple step to build your IDE by modified LazyVim.
+# The simple steps to build your IDE by modified LazyVim.
 
 ## Using environment:
 - Ubuntu 18:04
