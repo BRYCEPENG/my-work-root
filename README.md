@@ -12,15 +12,15 @@
 - https://github.com/rizsotto/Bear/releases/tag/2.4.4
 
 ## USAGE:
-- 1. How to setup in linux:
-    - cp ./nvim ~/.config/nvim
+- How to setup in linux:
+    - cp ./nvim ~/.config/
     - nvim
-- 2. Deal with compatibility issue by restoring the specified in lazy-lock.json:
+- Deal with compatibility issue by restoring the specified in lazy-lock.json:
     - cp ./lazy-lock.json ~/.config/nvim/lazy-lock.json
     - :Lazy restore
 
 ## Setup clang(c/c++) and lua language server:
-- 1. Run nvim command ':Mason'
-- 2. Move icon to 'clang' and 'lua-language-server'.
-- 3. Type 'i' for installing such plugin.
-- 4. Type 'u' for updating plugin after fully installed.
+- Run nvim command ':Mason'
+- Move icon to 'clang' and 'lua-language-server'.
+- Type 'i' for installing such plugin.
+- Type 'u' for updating plugin after fully installed.
