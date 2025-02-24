@@ -1,4 +1,4 @@
-# my-work-root
+# The simple step to build your IDE by modified LazyVim.
 
 ## Using environment:
 - Ubuntu 18:04
